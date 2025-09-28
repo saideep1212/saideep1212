@@ -20,7 +20,7 @@
 ### 🌐 Connect with me
 <p align="center"> 
   <a href="https://rahul-gope.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/saideep-morepatil-91aa32349"_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saideep-morepatil-91aa32349/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
 </p>
 
